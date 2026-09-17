@@ -1,15 +1,20 @@
 # 👋 Hi there, I'm Mariam Aboelkhier 📊
 
 
-I am a motivated and detail-oriented **Social Media Specialist** transitioning into **Data Analysis**, based in Bani Suef, Egypt. I hold a Bachelor's degree in Computer Science from Nahda University (2025) and a Professional Data Analyst Diploma from Mazen Analytics Lab.
+I am a motivated and detail-oriented Social Media Specialist transitioning into Data Analysis, based in Bani Suef, Egypt. I hold a Bachelor's degree in Computer Science from Nahda University (2025) with gpa 3.53
+and a Professional Data Analyst Diploma from Mazen Analytics Lab.
 
-My background combines hands-on experience in social media management, customer communication, and data entry with growing technical skills in analytics and BI. I enjoy exploring data, building interactive dashboards, and telling stories with numbers — currently building my portfolio to grow into a full-time Data Analyst / BI role.
+I have a good data analysis experience in non-profit organization with a strong knowledge at:
 
-**Technical Skills:**
-- 📊 Power BI (Data Modeling, DAX, Power Query)
-- 🗄️ SQL
-- 🐍 Python
-- 📑 Microsoft Excel & Office
+Statistics & Probability
+Pyhton
+Power BI
+Tableau
+SQL, PL/SQL
+Analytical SQL
+MS EXCEL/ Advanced SQL
+DWH/ ETL
+Power BI
 
 **Social Media & Communication Skills:**
 - Social Media Page Management & Monitoring
@@ -31,7 +36,6 @@ My background combines hands-on experience in social media management, customer 
 </p>
 
 ---
-
 ### 📌 Popular Repositories
 
 | Repository | Description |
