@@ -18,10 +18,12 @@ Power BI
 
 ----
 🛠️ Technical Skills & Tools
+
 Data: Excel (Advanced: Pivot Tables, VLOOKUP, INDEX-MATCH)
 BI & Visualization: Power BI (DAX, Power Query), Tableau, Google Data Studio
 Programming: SQL, Python (Pandas, NumPy, Matplotlib)
 Analytics & Processes: Data Cleaning & Validation, ETL, Statistical Analysis, KPI Development
+
 ---
 
 ### 📫 Reach me
