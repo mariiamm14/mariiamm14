@@ -1,8 +1,5 @@
 # 👋 Hi there, I'm Mariam Aboelkhier 📊
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="250">
-</p>
 
 I am a motivated and detail-oriented **Social Media Specialist** transitioning into **Data Analysis**, based in Bani Suef, Egypt. I hold a Bachelor's degree in Computer Science from Nahda University (2025) and a Professional Data Analyst Diploma from Mazen Analytics Lab.
 
