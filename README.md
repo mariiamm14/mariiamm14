@@ -16,12 +16,12 @@ MS EXCEL/ Advanced SQL
 DWH/ ETL
 Power BI
 
-**Social Media & Communication Skills:**
-- Social Media Page Management & Monitoring
-- Customer Follow-up & Online Support
-- Content Coordination
-- Data Entry & Data Management
-
+----
+🛠️ Technical Skills & Tools
+Data: Excel (Advanced: Pivot Tables, VLOOKUP, INDEX-MATCH)
+BI & Visualization: Power BI (DAX, Power Query), Tableau, Google Data Studio
+Programming: SQL, Python (Pandas, NumPy, Matplotlib)
+Analytics & Processes: Data Cleaning & Validation, ETL, Statistical Analysis, KPI Development
 ---
 
 ### 📫 Reach me
@@ -45,16 +45,8 @@ Power BI
 
 ---
 
-### 🛠️ Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-</p>
-
+🛠️ Tools & Technologies
+<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> </p>
 ---
 
 ### 🎓 Certifications
