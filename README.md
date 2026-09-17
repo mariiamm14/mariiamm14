@@ -20,8 +20,11 @@ Power BI
 🛠️ Technical Skills & Tools
 
 Data: Excel (Advanced: Pivot Tables, VLOOKUP, INDEX-MATCH)
+
 BI & Visualization: Power BI (DAX, Power Query), Tableau, Google Data Studio
+
 Programming: SQL, Python (Pandas, NumPy, Matplotlib)
+
 Analytics & Processes: Data Cleaning & Validation, ETL, Statistical Analysis, KPI Development
 
 ---
@@ -49,11 +52,6 @@ Analytics & Processes: Data Cleaning & Validation, ETL, Statistical Analysis, KP
 
 🛠️ Tools & Technologies
 <p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> </p>
+
 ---
 
-### 🎓 Certifications
-
-- Social Media Marketing — HubSpot
-- Start Marketing with Meta Technologies
-- Professional Data Analyst Diploma — Mazen Analytics Lab
-- Data Analysis: Skills for the Freelance Professional
